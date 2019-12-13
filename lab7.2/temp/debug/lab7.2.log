@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+c:\lab7\lab7.2\source\main.c(33): warning C4477: 'fscanf_s' : 格式字串 '%f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'double *'
+  c:\lab7\lab7.2\source\main.c(33): note: 請考慮在格式字串中使用 '%lf'
+  lab7.2.vcxproj -> C:\lab7\lab7.2\lab7.2\lab7.2\..\..\temp\debug\lab7.2.exe
